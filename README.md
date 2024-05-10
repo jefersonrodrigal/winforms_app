@@ -12,5 +12,5 @@ facilitando o controle de recuo de armas
 1. Após clonar o repositorio abrir o terminal na pasta APP
 2. executar o comando - <strong>dotnet clean</strong>
 3. Em seguida executar o comando - <strong>dotnet build</strong>
-4. Após executados passo 2 e 3 será gerado o executavel no diretório <strong>\bin\Debug\net8.0-windows</strong>
+4. Após executados passos 2 e 3 será gerado o executavel no diretório <strong>\bin\Debug\net8.0-windows</strong>
 5. Dois clicks no arquivo MacroApp.exe
